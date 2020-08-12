@@ -1,0 +1,9 @@
+/server/node_modules
+/client/node_modules
+.build
+dist
+yarn.lock
+.env
+.vscode
+.idea
+

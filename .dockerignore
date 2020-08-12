@@ -1,0 +1,9 @@
+/server.idea
+/server/node_modules
+/server/.build
+/server/.vscode
+/server/fixtures
+/server/.gitignore
+/server/.env.example
+/server/.git
+README.md

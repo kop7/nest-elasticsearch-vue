@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "module": "commonjs",
+    "declaration": false,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "allowSyntheticDefaultImports": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es6",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "lib":["es2016"],
+    "allowJs": true,
+    "baseUrl": "./src"
+  },
+  "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ],
+    "include": [
+        "src/**/*"
+    ],
+  "paths": {
+    "@db-config/*": [
+      "src/config/*"
+    ],
+    "@modules/*":[
+      "src/modules/*"
+    ],
+    "@entities/*": [
+      "src/entity/*"
+    ]
+  }
+}
