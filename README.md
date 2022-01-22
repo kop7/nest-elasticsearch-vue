@@ -7,10 +7,10 @@
 ### How to setup local
 
   [Install Docker](https://docs.docker.com/v17.09/engine/installation/)
-     
-   
+
         git clone https://github.com/kop7/nest-elasticsearch-vue.git [project-name]  
         cd [project-name]/server && cp .env.example .env   
+        run `npm install` into client and server directories
         docker-compose -f dev.yml build
 
 ##### How to find elasticsearch url
