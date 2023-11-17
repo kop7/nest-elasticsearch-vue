@@ -27,3 +27,6 @@
 Go to  `http://localhost:8080/home`     
 
 ![](https://media.giphy.com/media/dVcFFjF3hXihQNnxAS/giphy.gif)
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mkop)
